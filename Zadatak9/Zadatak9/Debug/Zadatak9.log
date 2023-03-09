@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\anteb\source\repos\Zadatak9\Zadatak9\Source.c(23,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\anteb\source\repos\Zadatak9\Zadatak9\Source.c(90,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\anteb\source\repos\Zadatak9\Zadatak9\Source.c(103,15): warning C4047: 'return': 'poz' differs in levels of indirection from 'int'
+  Zadatak9.vcxproj -> C:\Users\anteb\source\repos\Zadatak9\Debug\Zadatak9.exe
