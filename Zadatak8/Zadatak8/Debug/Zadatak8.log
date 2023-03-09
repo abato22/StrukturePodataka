@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\anteb\source\repos\Zadatak8\Zadatak8\Source.c(166,18): warning C4133: 'function': incompatible types - from 'poz' to 'const char *const '
+C:\Users\anteb\source\repos\Zadatak8\Zadatak8\Source.c(250,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\anteb\source\repos\Zadatak8\Zadatak8\Source.c(169): warning C4715: 'Levelorder': not all control paths return a value
+C:\Users\anteb\source\repos\Zadatak8\Zadatak8\Source.c(198): warning C4715: 'Brisi': not all control paths return a value
+  Zadatak8.vcxproj -> C:\Users\anteb\source\repos\Zadatak8\Debug\Zadatak8.exe
