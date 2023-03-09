@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\anteb\source\repos\Zadatak3\Zadatak3\Source.c(283,17): warning C4133: 'function': incompatible types - from 'pozicija' to 'const char *const '
+  Zadatak3.vcxproj -> C:\Users\anteb\source\repos\Zadatak3\Debug\Zadatak3.exe
