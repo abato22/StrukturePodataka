@@ -1,0 +1,16 @@
+qw12 Ante Antic 3-2021 10
+er34 Jure Juric 5-2021 20
+tz56 Stipe Stipic 7-2021 30
+ui78 Luka Lukic 9-2021 40
+op90 Sime Simic 11-2022 50
+as21 Mate Matic 4-2022 60
+df43 Duje Dujic 12-2021 70
+gh65 Mile Milic 1-2022 80
+jk87 Jozo Jozic 6-2021 90
+yx09 Bozo Bozic 10-2021 100
+er34 Jure Juric 9-2021 20
+er34 Jure Juric 1-2021 20
+ui78 Luka Lukic 3-2021 40
+op90 Sime Simic 12-2022 50
+gh65 Mile Milic 10-2022 80
+jk87 Jozo Jozic 8-2021 90
