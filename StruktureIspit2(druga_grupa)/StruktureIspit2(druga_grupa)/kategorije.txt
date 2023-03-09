@@ -1,0 +1,9 @@
+Cokolada 5 12
+Jogurt 7 15
+Sir 50 70
+Sunka 50 59
+Cips 10 20
+Keks 5 15
+Meso 100 110
+Sladoled 5 20
+Riba 150 159
