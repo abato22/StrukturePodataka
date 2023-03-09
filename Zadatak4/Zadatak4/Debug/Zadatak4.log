@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\anteb\source\repos\Zadatak4\Zadatak4\Source.c(130,3): warning C4033: 'Umnozak' must return a value
+C:\Users\anteb\source\repos\Zadatak4\Zadatak4\Source.c(142): warning C4715: 'Umnozak': not all control paths return a value
+  Zadatak4.vcxproj -> C:\Users\anteb\source\repos\Zadatak4\Debug\Zadatak4.exe
