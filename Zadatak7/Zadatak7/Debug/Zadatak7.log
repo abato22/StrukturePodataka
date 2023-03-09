@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(39,21): warning C4047: 'function': 'root' differs in levels of indirection from 'stablo **'
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(39,16): warning C4024: 'Unos': different types for formal and actual parameter 1
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(39,26): warning C4133: 'function': incompatible types - from 'char [256]' to 'root'
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(67,15): warning C4047: 'return': 'root' differs in levels of indirection from 'int'
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(69,12): warning C4133: '=': incompatible types - from 'root' to 'char [256]'
+C:\Users\anteb\source\repos\Zadatak7\Zadatak7\Source.c(69,12): error C2106: '=': left operand must be l-value
